@@ -1,0 +1,8 @@
+{
+  "name": "Career-AI",
+  "description": "An advanced, proactive career strategist leveraging real-time automation risk models and personalized evolution roadmaps to ensure professionals thrive in the age of AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
